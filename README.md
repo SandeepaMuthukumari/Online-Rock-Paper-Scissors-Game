@@ -1,4 +1,3 @@
-# Online-Rock-Paper-Scissors-Game
 
 # Online Multiplayer Rock-Paper-Scissors Game
 
